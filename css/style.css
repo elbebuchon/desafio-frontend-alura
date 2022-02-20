@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(215, 202, 228);
+}
+
+#banner2 {
+        display: flex;
+        justify-content: center;
+   /*     position: static;   */
+        height: 30% ;
+        width:  100%;
+        
+}
+.relleno {
+    display: flex;
+    justify-content: right;
+    background-color: azure;
+}
